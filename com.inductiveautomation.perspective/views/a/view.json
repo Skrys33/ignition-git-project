@@ -1,0 +1,29 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "height": 620,
+      "width": 523
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "radImage"
+        },
+        "position": {
+          "height": 360,
+          "width": 360,
+          "y": 13
+        },
+        "type": "rad.display.image"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}

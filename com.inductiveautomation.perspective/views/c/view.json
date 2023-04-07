@@ -1,0 +1,53 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "width": 829
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "basis": "30px"
+        },
+        "props": {
+          "style": {
+            "classes": "drop"
+          }
+        },
+        "type": "ia.display.icon"
+      },
+      {
+        "meta": {
+          "name": "Icon_0"
+        },
+        "position": {
+          "basis": "30px"
+        },
+        "props": {
+          "style": {
+            "classes": "wave"
+          }
+        },
+        "type": "ia.display.icon"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "alignItems": "center",
+      "direction": "column",
+      "justify": "center",
+      "style": {
+        "backgroundColor": "#3498DB"
+      }
+    },
+    "type": "ia.container.flex"
+  }
+}

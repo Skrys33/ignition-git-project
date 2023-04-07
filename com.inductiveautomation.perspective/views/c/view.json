@@ -3,7 +3,8 @@
   "params": {},
   "props": {
     "defaultSize": {
-      "width": 829
+      "height": 671,
+      "width": 849
     }
   },
   "root": {
